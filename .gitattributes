@@ -1,3 +1,2 @@
 $ cat .gitattributes
 *.bat linguist-language=Python
-*.bat linguist-language=1%
