@@ -1,2 +1,3 @@
 $ cat .gitattributes
-*.bat linguist-language=Python
+*.bat linguist-language=Batchfile
+*.pyc linguist-language=Python
